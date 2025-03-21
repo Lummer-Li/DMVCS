@@ -4,7 +4,7 @@ This repo contains the demo code and data of our paper Disentangled Contrastive 
 Please contact us (pengyuanli@bjtu.edu.cn) if you require other datasets or assistance.
 
 > URL: [Disentangled Contrastive Multi-view Clustering via Semantic Relevance Invariance](xx.com)
-<img src="https://github.com/Lummer-Li/FAMVC/blob/main/FAMVC.png">
+<img src="https://github.com/Lummer-Li/DMVCS/blob/main/DMVCS.png">
 
 ## Requirements
 ```python
