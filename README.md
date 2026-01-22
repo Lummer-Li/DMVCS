@@ -93,7 +93,14 @@ Handwritten
 
 ## Cite our work📝
 ```bibtex
-
+@article{li2026disentangled,
+  author={Li, Pengyuan and Chang, Dongxia and Wang, Yiming and Kong, Zisen and Kong, Linhua and Zhao, Yao},
+  journal={IEEE Transactions on Knowledge and Data Engineering}, 
+  title={Disentangled Contrastive Multi-view Clustering via Semantic Relevance Invariance}, 
+  year={2026},
+  pages={1-14},
+  keywords={Semantics;Prototypes;Disentangled representation learning;Contrastive learning;Robustness;Clustering methods;Clustering algorithms;Topology;Data mining;Correlation;Multi-view Clustering;Multi-view Disentanglement;Multi-view Representation Learning;Deep Clustering},
+  doi={10.1109/TKDE.2026.3656269}}
 ```
 
 ## License📜
