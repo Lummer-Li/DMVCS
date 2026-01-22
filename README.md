@@ -100,7 +100,8 @@ Handwritten
   year={2026},
   pages={1-14},
   keywords={Semantics;Prototypes;Disentangled representation learning;Contrastive learning;Robustness;Clustering methods;Clustering algorithms;Topology;Data mining;Correlation;Multi-view Clustering;Multi-view Disentanglement;Multi-view Representation Learning;Deep Clustering},
-  doi={10.1109/TKDE.2026.3656269}}
+  doi={10.1109/TKDE.2026.3656269}
+}
 ```
 
 ## License📜
