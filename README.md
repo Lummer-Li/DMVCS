@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  🔥 Our work has been accepted by TKDE 2025!<br>
+  🔥 Our work has been accepted by TKDE 2026!<br>
 </p>
 
 ## Overview🔍
