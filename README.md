@@ -13,7 +13,7 @@
 <p align="center">
   <!-- IEEE TKDE Badge -->
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/IEEE-TKDE-2026-blueviolet.svg?style=flat-square" alt="IEEE TKDE">
+    <img src="https://img.shields.io/badge/IEEE TKDE-2026-blueviolet.svg?style=flat-square" alt="IEEE TKDE">
   </a>
   <!-- arXiv Badge -->
   <!-- <a href="https://arxiv.org/abs/2412.08345" target="_blank">
